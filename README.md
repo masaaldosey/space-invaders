@@ -21,6 +21,4 @@ Built with:
 * numpy 1.20.3
 * pygame 2.0.1
 
-It should be compatible with any python3 but I haven't tested it (and won't) so your milage my vary. 
-
 If there are any issues feel free to let me know, either by opening an issue or emailing me at prabhatreddyk@gmail.com. Enjoy!
